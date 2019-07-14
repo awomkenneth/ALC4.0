@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestKen</string>
+
+    <string name="pic">Pic</string>
+
+    <string name="des">
+        Track:  Android \n\n
+        Country:    Nigeria \n\n
+        Email:  awomkenneth@gmail.com \n\n
+        PhoneNumber:    2348182466847 \n\n
+        Slack Username: @awomkenneth \n\n
+    </string>
+</resources>
